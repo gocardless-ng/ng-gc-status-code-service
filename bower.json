@@ -1,7 +1,7 @@
 {
-  "name": "ng-gc-status-code-directive",
+  "name": "ng-gc-status-code-service",
   "version": "0.1.0",
-  "main": "ng-gc-status-code-directive.js",
+  "main": "ng-gc-status-code-service.js",
   "dependencies": {
     "angular": "~1.2.5"
   },

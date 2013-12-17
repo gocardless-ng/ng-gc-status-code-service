@@ -1,9 +1,9 @@
 {
-  "name": "ng-gc-status-code-directive",
+  "name": "ng-gc-status-code-service",
   "version": "0.2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gocardless-ng/ng-gc-status-code-directive.git"
+    "url": "https://github.com/gocardless-ng/ng-gc-status-code-service.git"
   },
   "devDependencies": {
     "grunt": "~0.4.1",

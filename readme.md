@@ -1,6 +1,6 @@
-# ng-gc-status-code-directive
+# ng-gc-status-code-service
 
-![](https://circleci.com/gh/gocardless-ng/ng-gc-status-code-directive.png?circle-token=:circle-token)
+![](https://circleci.com/gh/gocardless-ng/ng-gc-status-code-service.png?circle-token=:circle-token)
 
 ## Copyright and license
 
